@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: absolute;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.genre-select {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.genre-select select {
+  font-size: 1.25rem;
+}
+
+td, th {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
